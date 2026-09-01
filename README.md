@@ -71,7 +71,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/grid.svg)
+![Snake Grid](https://github.com/naeemurrahman5455/contribution-snake/blob/output/grid.svg)
 
 
 
