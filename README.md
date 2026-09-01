@@ -6,8 +6,12 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm <Naeemur Rahman>  </h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Frontend+Developer +@PH;React+Web+Developer;JavaScript+Developer;TypeScript;Tailwind" alt="Typing SVG" /></a>
-  </ul>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;TypeScript+Developer;Tailwind+CSS+Enthusiast"
+    alt="Typing SVG"
+  />
+</a>
 </div>
 
 
