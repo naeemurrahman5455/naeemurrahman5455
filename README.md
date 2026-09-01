@@ -71,7 +71,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/naeemurrahman5455/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/grid.svg)
 
 
 
@@ -80,9 +80,6 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
-| ------------- | ------------- |
 
 <br/>
 
