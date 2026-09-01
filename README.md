@@ -25,6 +25,24 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ---
 
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/naeemur120/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Naeemur Rahman" height="30" width="40" /></a> 
+        <a href="https://www.instagram.com/abun33101/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Naeemur Rahman" height="30" width="40" /></a> 
+            <a href="https://www.facebook.com/Abun33101" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Naeemur Rahman" height="30" width="40" /></a> 
+  </p>
+</div>
+
+<br/>
+
+
+
+
+
+
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
