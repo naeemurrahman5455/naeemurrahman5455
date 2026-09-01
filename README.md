@@ -70,29 +70,30 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
+## 🐍 GitHub Contributions
+
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/github-contribution-grid-snake-dark.svg"
-    />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/github-contribution-grid-snake-dark.svg"
+  />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/github-contribution-grid-snake.svg"
-    />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/github-contribution-grid-snake.svg"
+  />
 
-    <img
-      src="https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
+  <img
+    src="https://raw.githubusercontent.com/naeemurrahman5455/contribution-snake/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 
-  </picture>
+</picture>
 
 </div>
-
 
 
 
