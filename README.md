@@ -28,43 +28,18 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>FOLLOW ME ON SOCIALS:</b>
-
 <div>
   <p align="left">
+    <a href="https://www.linkedin.com/in/naeemur120/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Naeeur Rahman" height="30" width="40" /></a>
 
-    <a href="https://www.linkedin.com/in/naeemur120/" target="_blank">
-      <img
-        src="https://cdn.simpleicons.org/linkedin/0A66C2"
-        alt="LinkedIn"
-        height="30"
-        width="40"
-      />
-    </a>
-
-    <a href="https://www.instagram.com/abun33101/" target="_blank">
-      <img
-        src="https://cdn.simpleicons.org/instagram/E4405F"
-        alt="Instagram"
-        height="30"
-        width="40"
-      />
-    </a>
-
-    <a href="https://www.facebook.com/Abun33101" target="_blank">
-      <img
-        src="https://cdn.simpleicons.org/facebook/1877F2"
-        alt="Facebook"
-        height="30"
-        width="40"
-      />
-    </a>
-
-  </p>
+        <a href="https://www.instagram.com/abun33101/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Naeeur Rahman" height="30" width="40" /></a>
+    
+    <a href="https://discord.gg/naeemurrahman2026" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="Naeeur Rahman" height="30" width="40" /></a>
 </div>
 
 <br/>
+
+
 
 
 
