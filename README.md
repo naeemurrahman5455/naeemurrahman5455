@@ -31,10 +31,8 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/naeemur120/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Naeeur Rahman" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/abun33101/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Naeeur Rahman" height="30" width="40" /></a>
 
-        <a href="https://www.instagram.com/abun33101/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Naeeur Rahman" height="30" width="40" /></a>
-    
-    <a href="https://discord.gg/naeemurrahman2026" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="Naeeur Rahman" height="30" width="40" /></a>
     
 
   </p>
