@@ -2,21 +2,17 @@
   <img src="./banner.png" alt="Naeemur Rahman Banner" width="100%">
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">
-        Hi 👋, I'm Naeemur Rahman
-      </h1>
-    </summary>
+<div align="center">
 
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;TypeScript+Developer;Tailwind+CSS+Enthusiast"
-        alt="Typing SVG"
-      />
-    </a>
-  </ul>
+  <h1>Hi 👋, I'm Naeemur Rahman</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;JavaScript+Developer;TypeScript+Developer;Tailwind+CSS+Developer"
+      alt="Typing SVG"
+    />
+  </a>
+
 </div>
 
 
