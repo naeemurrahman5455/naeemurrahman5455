@@ -28,18 +28,29 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/naeemur120/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Naeemur Rahman" height="30" width="40" /></a> 
-        <a href="https://www.instagram.com/abun33101/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Naeemur Rahman" height="30" width="40" /></a> 
-<a href="https://www.facebook.com/Abun33101" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    alt="Facebook"
-    height="30"
-  />
-</a>
-  </p>
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/naeemur120/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/abun33101/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/Abun33101" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
+
 </div>
 
 <br/>
