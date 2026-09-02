@@ -15,14 +15,32 @@
 
 </div>
 
-
-
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👨‍💻 About Me
 
+Hi! I'm **Naeemur Rahman**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
+
+- 🎓 Completed a **Diploma in Engineering in Refrigeration & Air Conditioning (RAC) Technology**
+- 💻 Building modern and responsive web applications
+- ⚛️ Working with **React, TypeScript, JavaScript & Tailwind CSS**
+- 🚀 Currently learning **Next.js, Node.js, Express.js & MongoDB**
+- 🧠 Passionate about **problem solving and clean UI/UX**
+- 🔨 Building projects to strengthen my **Full Stack Development** skills
+- 🌱 Continuously learning and improving my development skills
+- 🤝 Open to **collaboration, open-source projects & learning opportunities**
+- ⚡ Fun fact: I love **football ⚽** and turning ideas into web applications
+
+---
+## 🎯 Professional Objective
+
+I am a Future **Full Stack Developer** passionate about building modern, scalable, responsive, and user-friendly web applications.
+
+Currently, I am strengthening my expertise in **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, and MongoDB**, while continuously improving my problem-solving, clean coding, and software development skills.
+
+I enjoy turning ideas into real-world applications and building projects that help me grow as a developer. My goal is to become a professional Full Stack Developer, contribute to impactful software products, and continuously learn and adapt to new technologies.
+
+🎯 Goal: Become a skilled Full Stack Developer and build high-quality software solutions that create real-world impact.
 ---
 
 <!--- socials --->
@@ -70,11 +88,122 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### 🚀 What I'm Working On
+
+**Currently building. Currently learning. Always improving**
+
+## Frontend
+├── ⚛️ React
+├── 🔷 TypeScript
+├── 🎨 Tailwind CSS
+└── ▲ Next.js
+
+## Backend
+├── 🟢 Node.js
+├── 🚂 Express.js
+├── 🍃 MongoDB
+└── 🔗 REST APIs
+
+## Development
+├── 🔐 Authentication & Authorization
+├── 🧩 Problem Solving
+├── 🧹 Clean & Maintainable Code
+└── 🏗️ Full-Stack Architecture
+
+## 📌 Current Focus
+
+- ⚛️ Building scalable React applications
+- 🔷 Writing type-safe applications with TypeScript
+- ▲ Learning Next.js and modern React patterns
+- 🟢 Learning backend development with Node.js & Express.js
+- 🍃 Working with MongoDB
+- 🔐 Exploring authentication & authorization
+- 🚀 Learning REST APIs and full-stack architecture
+- 🧩 Improving problem-solving and clean code practices
 
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+## 💼 What I'm Learning to Build
+
+- 🌐 Responsive Web Applications
+- ⚛️ React-based Frontend Applications
+- 📊 Dashboard & Admin Panels
+- 🔐 Authentication Systems
+- 🛒 E-commerce Interfaces
+- 📝 Task Management Applications
+- 🤖 AI-powered Web Applications
+- 🔗 REST API-based Applications
+
+---
+## 🧠 Problem Solving
+
+I regularly practice programming problems to improve my:
+
+- 🧩 Logical thinking
+- 🔍 Problem-solving skills
+- ⚡ JavaScript fundamentals
+- 🔷 TypeScript concepts
+- 🧠 Algorithms & Data Structures
+
+---
+
+## 🎓 Education
+
+**Diploma in Refrigeration & Air Conditioning**  
+Chapai Nawabganj Polytechnic Institute 🇧🇩
+
+Currently focused on:
+
+- Web Development
+- Programming
+- Software Engineering
+- Full Stack Development
+
+---
+
+## 🤝 Open to Opportunities
+
+Currently focused on learning, building, and improving my development skills.
+
+Open to:
+
+- 🌱 Internship opportunities
+- 🤝 Open-source collaboration
+- 👥 Developer collaborations
+- 💼 Junior Developer opportunities
+- 🚀 Future Full Stack opportunities
+
+---
+
+### 🧭 My Learning Journey
+                    🌐 WEB DEVELOPMENT
+                           │
+                           ▼
+                    🧱 HTML + CSS
+                           │
+                           ▼
+                    🟨 JavaScript
+                           │
+                           ▼
+                    🔷 TypeScript
+                           │
+                           ▼
+                       ⚛️ React
+                           │
+                           ▼
+                      ▲ Next.js
+                           │
+                           ▼
+              🟢 Node.js + Express.js
+                           │
+                           ▼
+                    🍃 MongoDB
+                           │
+                           ▼
+                 🔗 REST API & Auth
+                           │
+                           ▼
+              🚀 FULL STACK DEVELOPER
+
 
 
 <br/>
